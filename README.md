@@ -13,7 +13,7 @@ Simple command-line tasks manager built in Python. Allows to add,delete, viewing
 - Standard libraries only
 
 ## How to setup
-1. Open the folder you want to copy the repository
+1. Open the folder you want to copy the repository to
 2. Open the terminal
 3. Clone the repository:
    git clone https://github.com/mar-ooq/Console-Tasks-Manger.git

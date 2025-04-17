@@ -19,5 +19,5 @@ Simple command-line tasks manager built in Python. Allows to add,delete, viewing
    git clone https://github.com/mar-ooq/Console-Tasks-Manger.git
 4. Go into the project folder:
    cd Console-Tasks-Manager
-5. Run the program
+5. Run the program:
    python main.py
